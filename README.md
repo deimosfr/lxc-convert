@@ -1,3 +1,5 @@
+This repository is not maintained anymore. Only pull requests are accepted
+
 lxc-convert
 ===========
 
